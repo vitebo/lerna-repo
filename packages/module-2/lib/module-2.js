@@ -3,5 +3,5 @@
 module.exports = module2;
 
 function module2() {
-    // TODO
+    console.log('module 2');
 }
