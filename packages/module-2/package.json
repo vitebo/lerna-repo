@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@vitebo/module-2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "vitebo <vitebo@hotmail.com>",
   "homepage": "https://github.com/vitebo/lerna-repo#readme",
@@ -25,7 +25,7 @@
     "url": "https://github.com/vitebo/lerna-repo/issues"
   },
   "dependencies": {
-    "@vitebo/module-1": "^1.0.6"
+    "@vitebo/module-1": "^1.0.7"
   },
   "gitHead": "1c16b062080f6279096daf79ab4277f2b0f3671c"
 }
