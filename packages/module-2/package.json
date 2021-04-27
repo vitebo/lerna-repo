@@ -1,5 +1,6 @@
 {
-  "name": "module-2",
+  "private": false,
+  "name": "@vitebo/module-2",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "vitebo <vitebo@hotmail.com>",
